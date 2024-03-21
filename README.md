@@ -20,4 +20,8 @@ This Python program allows users to calculate and display information about rect
 3. Follow the prompts to input the tower dimensions and select the desired action.
 4. View the calculated area/perimeter or the printed triangle.
 
+## Diagram
+![‫תרשים זרימה מגדלים גאומטריים ‬](https://github.com/yaelProg/PythonGeometryTowers/assets/156606079/b798b716-2616-49dc-906a-d7c328ab26f6)
+
+
 ---
